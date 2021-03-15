@@ -1,0 +1,24 @@
+{
+  "name": "spam-bot-D.JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rramirez216/spam-bot-D.JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rramirez216/spam-bot-D.JS/issues"
+  },
+  "homepage": "https://github.com/rramirez216/spam-bot-D.JS#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
